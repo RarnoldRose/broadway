@@ -1,0 +1,53 @@
+* {
+  text-align: center;
+  font-family: helvetica;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+a {
+  color: white;
+  font-size: 18px;
+}
+
+.header {
+  color: white;
+  background-image: url(../background.png)
+}
+
+.textlinks {
+  color: black;
+  text-decoration: none;
+}
+
+.footer {
+  background-color: gray;
+  color: white;
+  font-size: 11px;
+}
+
+.footer p {
+  text-align: left;
+}
+
+#newyork {
+  color: white;
+  background-image: url(../background.png)
+}
